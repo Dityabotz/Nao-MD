@@ -49,33 +49,33 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6281387307198'
-global.nomorown1 = '6281387307198'
-global.nomorown2 = '6281387307198'
+global.nomorbot = '6281316235253'
+global.nomorown = '6281226512906'
+global.nomorown1 = '6285876830674'
+global.nomorown2 = '6285809011357'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Ryzn'
-global.namebot = '​ NaoBotz'
-global.wm = '© NaoBotz By Ryzn'
+global.author = 'Nathaliee×'
+global.namebot = 'Ramz-BOT'
+global.wm = '©RamzBOT-MD by Xynota-XD'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'Ryzn '
+global.wm = 'Xynotaa-MD '
 global.watermark = wm
-global.wm2 = 'Ryzn '
+global.wm2 = 'Xynotaa× '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `NaoBotz`
-global.stickpack = 'NaoBotz'
-global.stickauth = `© Ryzn`
+global.titlebot = `Ramz-BOT`
+global.stickpack = 'Ramz-BOT'
+global.stickauth = `© Ramzz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= 'Ramzz'
+global.nameown2 = 'Ramzz'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -89,12 +89,12 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/channel/UC5z1Xp6vQGU038B1RbMC3Gg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 8730 7198'
+global.pdana = '0813 1623 5253'
 global.povo = '-'
-global.pgopay = '0813 8730 7198'
+global.pgopay = '0813 1623 5253'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 8730 7198'
-global.ppulsa2 = '0813 8730 7198'
+global.ppulsa = '0813 1623 5253'
+global.ppulsa2 = '0813 1623 5253'
 global.psaweria = '-'
 
 
@@ -306,7 +306,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.dtu = 'INSTAGRAM'
 global.urlnya = "https://www.instagram.com/ryzen_vermillion"
 global.dtc = 'CALL OWNER'
-global.phn = '0813 8730 7198'
+global.phn = '0813 1623 5253'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
